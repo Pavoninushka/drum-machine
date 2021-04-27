@@ -1,5 +1,5 @@
 # Random-Quotes
 
-Random Quote Machine built by using a frontend frameworks React:
+Drum-machine built by using a frontend frameworks React:
 
-https://pavoninushka.github.io/drum_machine/
+https://pavoninushka.github.io/drum-machine/
